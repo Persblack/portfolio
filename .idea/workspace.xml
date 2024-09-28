@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="init - hero started" />
+    <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="init - hero started">
+      <change afterPath="$PROJECT_DIR$/components/Grid.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/background-gradient-animation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/bento-grid.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Persblack"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Persblack/portfolio.git",
+    "accountId": "7e3083b7-3113-486f-a0a9-11fabf558030"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -64,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727536997408</updated>
-      <workItem from="1727536998484" duration="6074000" />
+      <workItem from="1727536998484" duration="12129000" />
     </task>
     <task id="LOCAL-00001" summary="init - hero started">
       <option name="closed" value="true" />
@@ -74,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727542707745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init - hero started">
+      <option name="closed" value="true" />
+      <created>1727543642906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727543642906</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
