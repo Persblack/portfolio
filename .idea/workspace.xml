@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="init - hero started">
-      <change afterPath="$PROJECT_DIR$/components/Grid.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/background-gradient-animation.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/bento-grid.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/index.ts" afterDir="false" />
+    <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="grid complete">
+      <change afterPath="$PROJECT_DIR$/components/ui/GlobeDemo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/globe.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/confetti.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/MagicButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/MagicButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/background-gradient-animation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/background-gradient-animation.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/bento-grid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/bento-grid.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Persblack"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Persblack&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Persblack/portfolio.git",
-    "accountId": "7e3083b7-3113-486f-a0a9-11fabf558030"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Persblack/portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;7e3083b7-3113-486f-a0a9-11fabf558030&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -50,7 +53,6 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/rcper/OneDrive/Dokumente/REPOS/portfolio",
     "node.js.detected.package.eslint": "true",
@@ -58,7 +60,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Program Files\\nodejs\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "ts.external.directory.path": "C:\\Users\\rcper\\OneDrive\\Dokumente\\REPOS\\portfolio\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727536997408</updated>
-      <workItem from="1727536998484" duration="12129000" />
+      <workItem from="1727536998484" duration="12224000" />
+      <workItem from="1727606329387" duration="8506000" />
     </task>
     <task id="LOCAL-00001" summary="init - hero started">
       <option name="closed" value="true" />
@@ -101,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727543642906</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="grid - 1:02h">
+      <option name="closed" value="true" />
+      <created>1727553523852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727553523852</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +154,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init - hero started" />
-    <option name="LAST_COMMIT_MESSAGE" value="init - hero started" />
+    <MESSAGE value="grid - 1:02h" />
+    <MESSAGE value="grid complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="grid complete" />
   </component>
 </project>
