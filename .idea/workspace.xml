@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="grid complete">
-      <change afterPath="$PROJECT_DIR$/components/ui/GlobeDemo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/globe.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/confetti.json" afterDir="false" />
+    <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="portfolio section complete">
+      <change afterPath="$PROJECT_DIR$/components/RecentProjects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/3d-pin.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/MagicButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/MagicButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/background-gradient-animation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/background-gradient-animation.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/ui/bento-grid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/bento-grid.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/floating-navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/floating-navbar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -32,7 +31,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Persblack/portfolio.git&quot;,
-    &quot;accountId&quot;: &quot;7e3083b7-3113-486f-a0a9-11fabf558030&quot;
+    &quot;accountId&quot;: &quot;805d8f45-c0d9-43fb-998e-269a002de114&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -62,7 +61,7 @@
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Program Files\\nodejs\\node_modules\\prettier",
     "settings.editor.selected.configurable": "preferences.keymap",
-    "ts.external.directory.path": "C:\\Users\\rcper\\OneDrive\\Dokumente\\REPOS\\portfolio\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "/Users/ricoklatte/WebstormProjects/portfolio/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -88,6 +87,8 @@
       <updated>1727536997408</updated>
       <workItem from="1727536998484" duration="12224000" />
       <workItem from="1727606329387" duration="8506000" />
+      <workItem from="1727646406787" duration="1994000" />
+      <workItem from="1728075413844" duration="6743000" />
     </task>
     <task id="LOCAL-00001" summary="init - hero started">
       <option name="closed" value="true" />
@@ -156,6 +157,7 @@
     <MESSAGE value="init - hero started" />
     <MESSAGE value="grid - 1:02h" />
     <MESSAGE value="grid complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="grid complete" />
+    <MESSAGE value="portfolio section complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio section complete" />
   </component>
 </project>
