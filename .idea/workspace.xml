@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="portfolio section complete">
-      <change afterPath="$PROJECT_DIR$/components/RecentProjects.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/3d-pin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/bento-grid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/bento-grid.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/floating-navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/floating-navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/RecentProjects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/RecentProjects.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ui/3d-pin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ui/3d-pin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -88,7 +89,7 @@
       <workItem from="1727536998484" duration="12224000" />
       <workItem from="1727606329387" duration="8506000" />
       <workItem from="1727646406787" duration="1994000" />
-      <workItem from="1728075413844" duration="6743000" />
+      <workItem from="1728075413844" duration="16547000" />
     </task>
     <task id="LOCAL-00001" summary="init - hero started">
       <option name="closed" value="true" />
@@ -114,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727553523852</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="portfolio section complete">
+      <option name="closed" value="true" />
+      <created>1728165415343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728165415343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -19,12 +19,12 @@ const RecentProjects = () => {
                             <div className="relative flex items-center justify-center w-[80vw] overflow-hidden
                                             h-[30vh] sm:h-[40vh] mb-10 sm:w-[570px]">
                                 <div className="relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]">
-                                    <img src="/bg.png" alt="bg-img" />
+                                    <img src="/bg.png" alt="bg-img"/>
                                 </div>
                                 <img
                                     src={img}
                                     alt={title}
-                                    className={"z-10 absolute bottom-0"} />
+                                    className={"z-10 absolute bottom-0"}/>
                             </div>
                             <h1 className="font-bold lg:text-2xl md:text-xl text-base line-clamp-1">
                                 {title}
@@ -36,25 +36,26 @@ const RecentProjects = () => {
                                 <div className="flex items-center">
                                     {iconLists.map((icon, index) => (
                                         <div
-                                            key={icon}
+                                            key={`index`}
                                             className="border border-white/[0.2] rounded-full bg-black lg:w-10 lg:h-10
                                                        w-8 h-8 flex justify-center items-center"
                                             style={{
-                                                transform: `translateX(-${5 * index * 2}px)`}}>
+                                                transform: `translateX(-${5 * index * 2}px)`
+                                            }}>
                                             <img
                                                 src={icon}
                                                 alt={icon}
                                                 className="p-2"
                                             />
                                         </div>
-                                        ))}
+                                    ))}
                                 </div>
 
                                 <div className="flex items-center justify-between">
                                     <p className="flex lg:text-xl md:text-xs text-sm text-purple">
                                         Check Live Site
                                     </p>
-                                    <FaLocationArrow className="ms-3" color="CBACF9" />
+                                    <FaLocationArrow className="ms-3" color="CBACF9"/>
                                 </div>
                             </div>
                         </PinContainer>
