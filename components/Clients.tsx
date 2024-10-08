@@ -1,6 +1,5 @@
 import {InfiniteMovingCards} from "@/components/ui/infinite-moving-cards";
 import {companies, testimonials} from "@/data";
-import {img} from "framer-motion/m";
 
 const Clients = () => {
     return (
@@ -10,7 +9,7 @@ const Clients = () => {
                     Kind words from {' '}
                     <span className="text-purple">satisfied clients</span>
                 </h1>
-                <div className=" lex flex-col items-center max-lg:mt-10">
+                <div className="flex flex-col items-center max-lg:mt-10">
                     <InfiniteMovingCards
                         items={testimonials}
                         direction="right"
