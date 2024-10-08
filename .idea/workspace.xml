@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="testimonials completed">
-      <change afterPath="$PROJECT_DIR$/components/Experience.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/moving-border.tsx" afterDir="false" />
+    <list default="true" id="a304a1e6-f024-4247-a271-cac48c15f71e" name="Changes" comment="experience completed">
+      <change afterPath="$PROJECT_DIR$/components/Approach.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/canvas-reveal-effect.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Clients.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Clients.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1727536998484" duration="12224000" />
       <workItem from="1727606329387" duration="8506000" />
       <workItem from="1727646406787" duration="1994000" />
-      <workItem from="1728075413844" duration="26395000" />
+      <workItem from="1728075413844" duration="28742000" />
     </task>
     <task id="LOCAL-00001" summary="init - hero started">
       <option name="closed" value="true" />
@@ -135,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728392187045</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="experience completed">
+      <option name="closed" value="true" />
+      <created>1728393980214</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728393980214</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +188,7 @@
     <MESSAGE value="portfolio section complete" />
     <MESSAGE value="sentry added" />
     <MESSAGE value="testimonials completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="testimonials completed" />
+    <MESSAGE value="experience completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="experience completed" />
   </component>
 </project>
